@@ -1,0 +1,18 @@
+Source: stormpot
+Section: java
+Priority: optional
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Uploaders: Guillaume Lederrey <guillaume.lederrey@wikimedia.org>
+Build-Depends: debhelper (>= 9), default-jdk, maven-debian-helper (>= 2.1)
+Standards-Version: 3.9.8
+Vcs-Git: https://anonscm.debian.org/git/pkg-java/stormpot.git
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-java/stormpot.git
+Homepage: http://chrisvest.github.io/stormpot
+
+Package: libstormpot-java
+Architecture: all
+Depends: ${misc:Depends}, ${maven:Depends}
+Suggests: ${maven:OptionalDepends}
+Description: stormpot
+ A fast object pool library.
+

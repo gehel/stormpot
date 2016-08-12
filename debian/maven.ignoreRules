@@ -1,0 +1,17 @@
+
+com.mycila license-maven-plugin * * * *
+io.dropwizard.metrics metrics-core * * * *
+junit junit * * * *
+org.apache.maven.plugins maven-eclipse-plugin * * * *
+org.apache.maven.plugins maven-failsafe-plugin * * * *
+org.apache.maven.plugins maven-javadoc-plugin * * * *
+org.apache.maven.plugins maven-jxr-plugin * * * *
+org.apache.maven.plugins maven-pmd-plugin * * * *
+org.apache.maven.plugins maven-project-info-reports-plugin * * * *
+org.apache.maven.plugins maven-site-plugin * * * *
+org.apache.maven.plugins maven-surefire-plugin * * * *
+org.asciidoctor asciidoctor-maven-plugin * * * *
+org.hamcrest hamcrest-all * * * *
+org.hdrhistogram HdrHistogram * * * *
+org.jacoco jacoco-maven-plugin * * * *
+org.pitest pitest-maven * * * *

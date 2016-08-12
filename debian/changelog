@@ -1,0 +1,6 @@
+stormpot (2.4.1-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your
+    ITP>
+
+ -- Guillaume Lederrey <guillaume.lederrey@wikimedia.org>  Fri, 12 Aug 2016 13:44:00 +0000

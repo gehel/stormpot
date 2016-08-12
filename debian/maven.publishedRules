@@ -1,0 +1,3 @@
+
+com.github.chrisvest stormpot jar * * *
+com.github.chrisvest stormpot jar s/.*/debian/ * *
